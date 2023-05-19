@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-18-rout/static/css/main.073c9b0a.css",
+    "main.js": "/hw-18-rout/static/js/main.e8a1d621.js",
+    "index.html": "/hw-18-rout/index.html",
+    "main.073c9b0a.css.map": "/hw-18-rout/static/css/main.073c9b0a.css.map",
+    "main.e8a1d621.js.map": "/hw-18-rout/static/js/main.e8a1d621.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e8a1d621.js"
+  ]
+}
